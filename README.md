@@ -1,19 +1,18 @@
 # Rio Network
+**Scaling Restaking through Access, Liquidity, and Risk Adjusted Yield**
 
 ![Rio Network Logo](rio-network-logo-smaller.png)
 
-#### Scaling Restaking through Access, Liquidity, and Risk Adjusted Yield
-
 We believe by providing the best risk-managed access to restaking rewards, we’ll help scale the restaking ecosystem and reduce the cost of capital for Actively Validated Services (AVS).
 
-We'll execute on this mission by coordinating AVS selection and weighting, operator selection and management, and restaking liquidity and deposits.
+We execute on this mission by coordinating AVS selection and weighting, operator selection and management, and restaking liquidity and deposits.
 
 ### Rio Network Links 
 - [Website](https://www.rio.network)
 - [dApp](https://app.rio.network)
 - [Updates Blog](https://updates.rio.network/)
 
-#### Documentation
+#### Architecture
 - [Technical docs](https://docs.rio.network/)
 
 #### SDKs/Graphs
@@ -29,7 +28,7 @@ We'll execute on this mission by coordinating AVS selection and weighting, opera
 - [LinkedIn](https://www.linkedin.com/company/rio-network/)
 
 ### Operator Resources
-- [Operators Dashboard](https://operators.rio.network/)
+- [Operator Dashboard](https://operators.rio.network/)
 - [Operator Docs](https://docs-operators.rio.network/)
 
 ### License
