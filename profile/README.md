@@ -1,5 +1,5 @@
 # Rio Network
-**Scaling Restaking through Access, Liquidity, and Risk Adjusted Yield**
+**Scaling Restaking through Access, Liquidity, and Risk Adjusted Rewards**
 
 ![Rio Network Logo](rio-network-logo-smaller.png)
 
